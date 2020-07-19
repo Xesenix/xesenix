@@ -1,4 +1,4 @@
-![](creative_brain.jpg)
+![](https://github.com/Xesenix/xesenix/edit/master//creative_brain.jpg)
 
 # Welcome to my GitHUB Laboratory
 
