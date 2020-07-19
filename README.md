@@ -1,4 +1,4 @@
-# Welcome to my GitHUB
+# Welcome to my GitHUB Laboratory
 
 Hello my name is Paweł and I am web developer mainly working on frontend side Angular2+ but also some backend and architecture stuff.
 
